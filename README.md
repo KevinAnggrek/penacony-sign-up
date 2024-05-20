@@ -1,7 +1,8 @@
 # Penacony Sign-up Form
 
 > ***May our journey lead us starward!***  
-  
+\
+\ 
 
 This is my attempt to work on [The Odin Project's Sign-up Form mini project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form).
 I recently played a lot of Honkai Star Rail and spent a lot of time travelling through Penacony.
